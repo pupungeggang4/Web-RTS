@@ -14,5 +14,14 @@ const UI = {
     levelselect: {
         textTitle: [24, 24],
         buttonBack: [1180, 20, 80, 80],
+    },
+
+    menu: {
+        rect: [320, 240, 640, 240],
+        textPaused: [328, 324],
+        buttonResume: [320, 320, 640, 80],
+        textResume: [328, 344],
+        buttonExit: [320, 400, 640, 80],
+        textExit: [328, 424],
     }
 }
